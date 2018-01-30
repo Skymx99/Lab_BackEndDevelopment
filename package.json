@@ -1,0 +1,16 @@
+{
+  "name": "lab1_nodejs",
+  "version": "1.0.0",
+  "description": "nodeJS Lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Lewis",
+  "license": "ISC",
+  "dependencies": {
+    "download": "^6.2.5",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
